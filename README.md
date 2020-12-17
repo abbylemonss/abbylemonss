@@ -6,7 +6,7 @@ I'm Abby,
 
 I own and manage a bird, no affiliation to Ariana Grande, queen.
 
-I have my bubby: @devlooskie 
+I have my bubby: <a href="https://www.github.com/looskie" target="_blank">@devlooskie</a>
 
 <a href="https://twitter.com/abbylemons" target="_blank">
   <img align="left" width="22px" alt="Looskie's twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
